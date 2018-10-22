@@ -1,0 +1,14 @@
+D:\GitHub\web-1\bin\Debug\netcoreapp2.1\web-1.deps.json
+D:\GitHub\web-1\bin\Debug\netcoreapp2.1\web-1.runtimeconfig.json
+D:\GitHub\web-1\bin\Debug\netcoreapp2.1\web-1.runtimeconfig.dev.json
+D:\GitHub\web-1\bin\Debug\netcoreapp2.1\web-1.dll
+D:\GitHub\web-1\bin\Debug\netcoreapp2.1\web-1.pdb
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.csprojAssemblyReference.cache
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.csproj.CoreCompileInputs.cache
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.RazorAssemblyInfo.cache
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.RazorAssemblyInfo.cs
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.AssemblyInfoInputs.cache
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.AssemblyInfo.cs
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.RazorTargetAssemblyInfo.cache
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.dll
+D:\GitHub\web-1\obj\Debug\netcoreapp2.1\web-1.pdb
